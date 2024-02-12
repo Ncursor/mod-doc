@@ -1,1 +1,1 @@
-<h1 style='text-align:center;'>Mod Doc</h1>
+<h1 align=center>Mod Doc</h1>
